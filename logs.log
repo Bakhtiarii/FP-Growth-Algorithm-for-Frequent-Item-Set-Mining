@@ -1,0 +1,807 @@
+2023-10-19 01:41:34,186 ---------------Reading Input Data---------------
+2023-10-19 01:41:34,202 ---------------Transactional Data formed---------------
+2023-10-19 01:41:34,202 ---------------Performing Data Cleaning---------------
+2023-10-19 01:41:34,209 ---------------Data Cleaning Complete---------------
+2023-10-19 01:41:34,209 Maximum number of attributes present in the dataset : 9
+2023-10-19 01:41:34,222 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:41:34,228 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:41:34,246 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:41:34,421 ---------------FP Tree created---------------
+2023-10-19 01:41:34,546 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:41:34,557 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:41:34,598 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:41:34,906 ---------------FP Tree created---------------
+2023-10-19 01:41:34,954 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:41:34,963 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:41:34,983 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:41:35,188 ---------------FP Tree created---------------
+2023-10-19 01:41:35,242 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:41:35,249 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:41:35,276 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:41:35,698 ---------------FP Tree created---------------
+2023-10-19 01:41:35,757 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:41:35,763 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:41:35,781 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:41:36,038 ---------------FP Tree created---------------
+2023-10-19 01:41:36,254 Loaded backend tkagg version 8.6.
+2023-10-19 01:41:36,409 STREAM b'IHDR' 16 13
+2023-10-19 01:41:36,410 STREAM b'sBIT' 41 4
+2023-10-19 01:41:36,410 b'sBIT' 41 4 (unknown)
+2023-10-19 01:41:36,410 STREAM b'pHYs' 57 9
+2023-10-19 01:41:36,410 STREAM b'IDAT' 78 1189
+2023-10-19 01:41:36,437 STREAM b'IHDR' 16 13
+2023-10-19 01:41:36,437 STREAM b'sBIT' 41 4
+2023-10-19 01:41:36,437 b'sBIT' 41 4 (unknown)
+2023-10-19 01:41:36,437 STREAM b'pHYs' 57 9
+2023-10-19 01:41:36,438 STREAM b'IDAT' 78 2994
+2023-10-19 01:41:36,461 STREAM b'IHDR' 16 13
+2023-10-19 01:41:36,461 STREAM b'sBIT' 41 4
+2023-10-19 01:41:36,461 b'sBIT' 41 4 (unknown)
+2023-10-19 01:41:36,461 STREAM b'pHYs' 57 9
+2023-10-19 01:41:36,461 STREAM b'IDAT' 78 374
+2023-10-19 01:41:36,468 STREAM b'IHDR' 16 13
+2023-10-19 01:41:36,469 STREAM b'sBIT' 41 4
+2023-10-19 01:41:36,469 b'sBIT' 41 4 (unknown)
+2023-10-19 01:41:36,469 STREAM b'pHYs' 57 9
+2023-10-19 01:41:36,469 STREAM b'IDAT' 78 286
+2023-10-19 01:41:36,471 STREAM b'IHDR' 16 13
+2023-10-19 01:41:36,471 STREAM b'sBIT' 41 4
+2023-10-19 01:41:36,471 b'sBIT' 41 4 (unknown)
+2023-10-19 01:41:36,471 STREAM b'pHYs' 57 9
+2023-10-19 01:41:36,471 STREAM b'IDAT' 78 263
+2023-10-19 01:41:36,473 STREAM b'IHDR' 16 13
+2023-10-19 01:41:36,473 STREAM b'sBIT' 41 4
+2023-10-19 01:41:36,473 b'sBIT' 41 4 (unknown)
+2023-10-19 01:41:36,473 STREAM b'pHYs' 57 9
+2023-10-19 01:41:36,473 STREAM b'IDAT' 78 387
+2023-10-19 01:41:36,475 STREAM b'IHDR' 16 13
+2023-10-19 01:41:36,475 STREAM b'sBIT' 41 4
+2023-10-19 01:41:36,475 b'sBIT' 41 4 (unknown)
+2023-10-19 01:41:36,475 STREAM b'pHYs' 57 9
+2023-10-19 01:41:36,475 STREAM b'IDAT' 78 436
+2023-10-19 01:41:36,477 STREAM b'IHDR' 16 13
+2023-10-19 01:41:36,477 STREAM b'sBIT' 41 4
+2023-10-19 01:41:36,477 b'sBIT' 41 4 (unknown)
+2023-10-19 01:41:36,477 STREAM b'pHYs' 57 9
+2023-10-19 01:41:36,478 STREAM b'IDAT' 78 351
+2023-10-19 01:41:36,480 STREAM b'IHDR' 16 13
+2023-10-19 01:41:36,480 STREAM b'sBIT' 41 4
+2023-10-19 01:41:36,481 b'sBIT' 41 4 (unknown)
+2023-10-19 01:41:36,481 STREAM b'pHYs' 57 9
+2023-10-19 01:41:36,481 STREAM b'IDAT' 78 364
+2023-10-19 01:41:36,486 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,487 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,488 findfont: score(FontEntry(fname='C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TCB_____.TTF', name='Tw Cen MT', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SitkaVF.ttf', name='Sitka', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TEMPSITC.TTF', name='Tempus Sans ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOUDOS.TTF', name='Goudy Old Style', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRADMCN.TTF', name='Franklin Gothic Demi Cond', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ariali.ttf', name='Arial', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 7.413636363636363
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ONYX.TTF', name='Onyx', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GLSNECB.TTF', name='Gill Sans MT Ext Condensed Bold', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\corbeli.ttf', name='Corbel', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoeprb.ttf', name='Segoe Print', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GIL_____.TTF', name='Gill Sans MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\JOKERMAN.TTF', name='Jokerman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\comici.ttf', name='Comic Sans MS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ROCKBI.TTF', name='Rockwell', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\MAGNETOB.TTF', name='Magneto', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_CR.TTF', name='Bodoni MT', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguisym.ttf', name='Segoe UI Symbol', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\bahnschrift.ttf', name='Bahnschrift', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\micross.ttf', name='Microsoft Sans Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_I.TTF', name='Bodoni MT', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\verdanaz.ttf', name='Verdana', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 4.971363636363637
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BRADHITC.TTF', name='Bradley Hand ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,489 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GARA.TTF', name='Garamond', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOUDYSTO.TTF', name='Goudy Stout', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SansSerifCollection.ttf', name='Sans Serif Collection', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Candarai.ttf', name='Candara', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_CB.TTF', name='Bodoni MT', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\constanz.ttf', name='Constantia', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\calibril.ttf', name='Calibri', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BRUSHSCI.TTF', name='Brush Script MT', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TCCEB.TTF', name='Tw Cen MT Condensed Extra Bold', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOUDOSB.TTF', name='Goudy Old Style', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\trebucit.ttf', name='Trebuchet MS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SCHLBKI.TTF', name='Century Schoolbook', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\VIVALDII.TTF', name='Vivaldi', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ERASLGHT.TTF', name='Eras Light ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Nunito-Bold.ttf', name='Nunito', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\comicbd.ttf', name='Comic Sans MS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\COLONNA.TTF', name='Colonna MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msyhl.ttc', name='Microsoft YaHei', style='normal', variant='normal', weight=290, stretch='normal', size='scalable')) = 10.1545
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CALIFI.TTF', name='Californian FB', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\VINERITC.TTF', name='Viner Hand ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Inkfree.ttf', name='Ink Free', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LFAXD.TTF', name='Lucida Fax', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\AGENCYR.TTF', name='Agency FB', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,490 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguibli.ttf', name='Segoe UI', style='italic', variant='normal', weight=900, stretch='normal', size='scalable')) = 11.525
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\calibriz.ttf', name='Calibri', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msyh.ttc', name='Microsoft YaHei', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\corbelli.ttf', name='Corbel', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SNAP____.TTF', name='Snap ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\DUBAI-LIGHT.TTF', name='Dubai', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TCMI____.TTF', name='Tw Cen MT', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\consola.ttf', name='Consolas', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\gadugib.ttf', name='Gadugi', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\DUBAI-BOLD.TTF', name='Dubai', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CASTELAR.TTF', name='Castellar', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoesc.ttf', name='Segoe Script', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\AGENCYB.TTF', name='Agency FB', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CALISTI.TTF', name='Calisto MT', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\georgia.ttf', name='Georgia', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ALGER.TTF', name='Algerian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Nirmala.ttf', name='Nirmala UI', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_B.TTF', name='Bodoni MT', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FREESCPT.TTF', name='Freestyle Script', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\consolab.ttf', name='Consolas', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BRLNSDB.TTF', name='Berlin Sans FB Demi', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\courbd.ttf', name='Courier New', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SegUIVar.ttf', name='Segoe UI Variable', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\HARNGTON.TTF', name='Harrington', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,491 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ROCC____.TTF', name='Rockwell Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\pala.ttf', name='Palatino Linotype', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\timesbd.ttf', name='Times New Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CALIFR.TTF', name='Californian FB', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\verdanab.ttf', name='Verdana', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 3.9713636363636367
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BRLNSR.TTF', name='Berlin Sans FB', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\WINGDNG3.TTF', name='Wingdings 3', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msgothic.ttc', name='MS Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SCRIPTBL.TTF', name='Script MT Bold', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\trebucbd.ttf', name='Trebuchet MS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_CBI.TTF', name='Bodoni MT', style='italic', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\COPRGTB.TTF', name='Copperplate Gothic Bold', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRAMDCN.TTF', name='Franklin Gothic Medium Cond', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GILI____.TTF', name='Gill Sans MT', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\corbell.ttf', name='Corbel', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\NIAGSOL.TTF', name='Niagara Solid', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\taile.ttf', name='Microsoft Tai Le', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GILLUBCD.TTF', name='Gill Sans Ultra Bold Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\verdanai.ttf', name='Verdana', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 4.6863636363636365
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\javatext.ttf', name='Javanese Text', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BERNHC.TTF', name='Bernard MT Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoeui.ttf', name='Segoe UI', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LTYPEO.TTF', name='Lucida Sans Typewriter', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ROCKI.TTF', name='Rockwell', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,492 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PARCHM.TTF', name='Parchment', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\wingding.ttf', name='Wingdings', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LFAXDI.TTF', name='Lucida Fax', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ANTQUAB.TTF', name='Book Antiqua', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BAUHS93.TTF', name='Bauhaus 93', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\l_10646.ttf', name='Lucida Sans Unicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\MISTRAL.TTF', name='Mistral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TCCM____.TTF', name='Tw Cen MT Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\MTEXTRA.TTF', name='MT Extra', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ENGR.TTF', name='Engravers MT', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\OUTLOOK.TTF', name='MS Outlook', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\consolaz.ttf', name='Consolas', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ERASBD.TTF', name='Eras Bold ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msjh.ttc', name='Microsoft JhengHei', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CALISTB.TTF', name='Calisto MT', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FELIXTI.TTF', name='Felix Titling', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\constan.ttf', name='Constantia', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PLAYBILL.TTF', name='Playbill', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BELL.TTF', name='Bell MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\mingliub.ttc', name='MingLiU-ExtB', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SCHLBKB.TTF', name='Century Schoolbook', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Nunito-Regular.ttf', name='Nunito', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\holomdl2.ttf', name='HoloLens MDL2 Assets', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\times.ttf', name='Times New Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,493 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\COOPBL.TTF', name='Cooper Black', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PERTIBD.TTF', name='Perpetua Titling MT', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ARLRDBD.TTF', name='Arial Rounded MT Bold', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\tahoma.ttf', name='Tahoma', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\trebucbi.ttf', name='Trebuchet MS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msjhl.ttc', name='Microsoft JhengHei', style='normal', variant='normal', weight=290, stretch='normal', size='scalable')) = 10.1545
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\MAIAN.TTF', name='Maiandra GD', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SHOWG.TTF', name='Showcard Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Gabriola.ttf', name='Gabriola', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GARAIT.TTF', name='Garamond', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BELLI.TTF', name='Bell MT', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PER_____.TTF', name='Perpetua', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_BLAI.TTF', name='Bodoni MT', style='italic', variant='normal', weight=900, stretch='normal', size='scalable')) = 11.525
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PERBI___.TTF', name='Perpetua', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BKANT.TTF', name='Book Antiqua', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GARABD.TTF', name='Garamond', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SegoeIcons.ttf', name='Segoe Fluent Icons', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_BLAR.TTF', name='Bodoni MT', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\arial.ttf', name='Arial', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 6.413636363636363
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRABKIT.TTF', name='Franklin Gothic Book', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LTYPE.TTF', name='Lucida Sans Typewriter', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguisbi.ttf', name='Segoe UI', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GILBI___.TTF', name='Gill Sans MT', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,494 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\mvboli.ttf', name='MV Boli', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguihis.ttf', name='Segoe UI Historic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\arialbi.ttf', name='Arial', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 7.698636363636363
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOTHICI.TTF', name='Century Gothic', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\RAVIE.TTF', name='Ravie', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\phagspab.ttf', name='Microsoft PhagsPa', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRADMIT.TTF', name='Franklin Gothic Demi', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\impact.ttf', name='Impact', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\constani.ttf', name='Constantia', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\POORICH.TTF', name='Poor Richard', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\STENCIL.TTF', name='Stencil', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguili.ttf', name='Segoe UI', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GLECB.TTF', name='Gloucester MT Extra Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\symbol.ttf', name='Symbol', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\phagspa.ttf', name='Microsoft PhagsPa', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\NirmalaB.ttf', name='Nirmala UI', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ntailu.ttf', name='Microsoft New Tai Lue', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\cambria.ttc', name='Cambria', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ARIALNI.TTF', name='Arial', style='italic', variant='normal', weight=400, stretch='condensed', size='scalable')) = 7.613636363636363
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\cambriaz.ttf', name='Cambria', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_PSTC.TTF', name='Bodoni MT', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoeuib.ttf', name='Segoe UI', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LFAX.TTF', name='Lucida Fax', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\constanb.ttf', name='Constantia', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ntailub.ttf', name='Microsoft New Tai Lue', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BRITANIC.TTF', name='Britannic Bold', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GILC____.TTF', name='Gill Sans MT Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GILSANUB.TTF', name='Gill Sans Ultra Bold', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRAHVIT.TTF', name='Franklin Gothic Heavy', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Candaraz.ttf', name='Candara', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\verdana.ttf', name='Verdana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 3.6863636363636365
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BASKVILL.TTF', name='Baskerville Old Face', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\MATURASC.TTF', name='Matura MT Script Capitals', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\taileb.ttf', name='Microsoft Tai Le', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CALISTBI.TTF', name='Calisto MT', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BSSYM7.TTF', name='Bookshelf Symbol 7', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,495 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguisli.ttf', name='Segoe UI', style='italic', variant='normal', weight=350, stretch='normal', size='scalable')) = 11.0975
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ariblk.ttf', name='Arial', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 6.888636363636364
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_R.TTF', name='Bodoni MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LSANSI.TTF', name='Lucida Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\consolai.ttf', name='Consolas', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BELLB.TTF', name='Bell MT', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOUDOSI.TTF', name='Goudy Old Style', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\corbelz.ttf', name='Corbel', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FORTE.TTF', name='Forte', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\YuGothM.ttc', name='Yu Gothic', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\cambriai.ttf', name='Cambria', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\COPRGTL.TTF', name='Copperplate Gothic Light', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\OCRAEXT.TTF', name='OCR A Extended', style='normal', variant='normal', weight=400, stretch='expanded', size='scalable')) = 10.25
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRSCRIPT.TTF', name='French Script MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LBRITED.TTF', name='Lucida Bright', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msyhbd.ttc', name='Microsoft YaHei', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\tahomabd.ttf', name='Tahoma', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PERB____.TTF', name='Perpetua', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GILB____.TTF', name='Gill Sans MT', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\HTOWERT.TTF', name='High Tower Text', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\REFSAN.TTF', name='MS Reference Sans Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LSANSDI.TTF', name='Lucida Sans', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\DUBAI-REGULAR.TTF', name='Dubai', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\monbaiti.ttf', name='Mongolian Baiti', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,496 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\palabi.ttf', name='Palatino Linotype', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRAHV.TTF', name='Franklin Gothic Heavy', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TCBI____.TTF', name='Tw Cen MT', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\malgunsl.ttf', name='Malgun Gothic', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\framdit.ttf', name='Franklin Gothic Medium', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ANTQUAI.TTF', name='Book Antiqua', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\malgunbd.ttf', name='Malgun Gothic', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\georgiab.ttf', name='Georgia', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoescb.ttf', name='Segoe Script', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CENTURY.TTF', name='Century', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\simsun.ttc', name='SimSun', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\trebuc.ttf', name='Trebuchet MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Candarali.ttf', name='Candara', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LATINWD.TTF', name='Wide Latin', style='normal', variant='normal', weight=400, stretch='expanded', size='scalable')) = 10.25
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRABK.TTF', name='Franklin Gothic Book', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\himalaya.ttf', name='Microsoft Himalaya', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LeelawUI.ttf', name='Leelawadee UI', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguiemj.ttf', name='Segoe UI Emoji', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ARIALNBI.TTF', name='Arial', style='italic', variant='normal', weight=700, stretch='condensed', size='scalable')) = 7.8986363636363635
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\couri.ttf', name='Courier New', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PAPYRUS.TTF', name='Papyrus', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\YuGothL.ttc', name='Yu Gothic', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LSANS.TTF', name='Lucida Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoeuii.ttf', name='Segoe UI', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,497 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\HATTEN.TTF', name='Haettenschweiler', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\JUICE___.TTF', name='Juice ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CALIST.TTF', name='Calisto MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\REFSPCL.TTF', name='MS Reference Specialty', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\comic.ttf', name='Comic Sans MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\WINGDNG2.TTF', name='Wingdings 2', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ebrima.ttf', name='Ebrima', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LBRITEDI.TTF', name='Lucida Bright', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\calibrii.ttf', name='Calibri', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ELEPHNTI.TTF', name='Elephant', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ERASMD.TTF', name='Eras Medium ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\framd.ttf', name='Franklin Gothic Medium', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\VLADIMIR.TTF', name='Vladimir Script', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\HARLOWSI.TTF', name='Harlow Solid Italic', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguisb.ttf', name='Segoe UI', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoeuiz.ttf', name='Segoe UI', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_BI.TTF', name='Bodoni MT', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\simsunb.ttf', name='SimSun-ExtB', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOTHIC.TTF', name='Century Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ROCK.TTF', name='Rockwell', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoeuil.ttf', name='Segoe UI', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msyi.ttf', name='Microsoft Yi Baiti', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\MTCORSVA.TTF', name='Monotype Corsiva', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\KUNSTLER.TTF', name='Kunstler Script', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,498 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOOKOSI.TTF', name='Bookman Old Style', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CURLZ___.TTF', name='Curlz MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\malgun.ttf', name='Malgun Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\NirmalaS.ttf', name='Nirmala UI', style='normal', variant='normal', weight=350, stretch='normal', size='scalable')) = 10.0975
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CHILLER.TTF', name='Chiller', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\webdings.ttf', name='Webdings', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Candaral.ttf', name='Candara', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\sylfaen.ttf', name='Sylfaen', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LBRITE.TTF', name='Lucida Bright', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LBRITEI.TTF', name='Lucida Bright', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\comicz.ttf', name='Comic Sans MS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PALSCRI.TTF', name='Palace Script MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SCHLBKBI.TTF', name='Century Schoolbook', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\INFROMAN.TTF', name='Informal Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ARIALNB.TTF', name='Arial', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 6.8986363636363635
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ebrimabd.ttf', name='Ebrima', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ARIALN.TTF', name='Arial', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 6.613636363636363
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\cambriab.ttf', name='Cambria', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LSANSD.TTF', name='Lucida Sans', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\lucon.ttf', name='Lucida Console', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\calibri.ttf', name='Calibri', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\calibrib.ttf', name='Calibri', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ROCCB___.TTF', name='Rockwell Condensed', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LTYPEBO.TTF', name='Lucida Sans Typewriter', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-10-19 01:41:36,499 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FRADM.TTF', name='Franklin Gothic Demi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\mmrtextb.ttf', name='Myanmar Text', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\SitkaVF-Italic.ttf', name='Sitka', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segmdl2.ttf', name='Segoe MDL2 Assets', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BRLNSB.TTF', name='Berlin Sans FB', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LeelaUIb.ttf', name='Leelawadee UI', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoeuisl.ttf', name='Segoe UI', style='normal', variant='normal', weight=350, stretch='normal', size='scalable')) = 10.0975
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Candarab.ttf', name='Candara', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\timesi.ttf', name='Times New Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\IMPRISHA.TTF', name='Imprint MT Shadow', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\NIAGENG.TTF', name='Niagara Engraved', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\MOD20.TTF', name='Modern No. 20', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ERASDEMI.TTF', name='Eras Demi ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\courbi.ttf', name='Courier New', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\georgiaz.ttf', name='Georgia', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PERTILI.TTF', name='Perpetua Titling MT', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOTHICBI.TTF', name='Century Gothic', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CENSCBK.TTF', name='Century Schoolbook', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LHANDW.TTF', name='Lucida Handwriting', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ITCBLKAD.TTF', name='Blackadder ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ROCKEB.TTF', name='Rockwell Extra Bold', style='normal', variant='normal', weight=800, stretch='normal', size='scalable')) = 10.43
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GIGI.TTF', name='Gigi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,500 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TCCB____.TTF', name='Tw Cen MT Condensed', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ANTQUABI.TTF', name='Book Antiqua', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\calibrili.ttf', name='Calibri', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOOKOSBI.TTF', name='Bookman Old Style', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\seguibl.ttf', name='Segoe UI', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LTYPEB.TTF', name='Lucida Sans Typewriter', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOOKOSB.TTF', name='Bookman Old Style', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BROADW.TTF', name='Broadway', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ITCKRIST.TTF', name='Kristen ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LCALLIG.TTF', name='Lucida Calligraphy', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\HTOWERTI.TTF', name='High Tower Text', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\TCM_____.TTF', name='Tw Cen MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ROCKB.TTF', name='Rockwell', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\arialbd.ttf', name='Arial', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 6.698636363636363
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\palai.ttf', name='Palatino Linotype', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\Candara.ttf', name='Candara', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\segoepr.ttf', name='Segoe Print', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\corbel.ttf', name='Corbel', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CALIFB.TTF', name='Californian FB', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ELEPHNT.TTF', name='Elephant', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\georgiai.ttf', name='Georgia', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOOKOS.TTF', name='Bookman Old Style', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\FTLTLT.TTF', name='Footlight MT Light', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\timesbi.ttf', name='Times New Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2023-10-19 01:41:36,501 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOD_CI.TTF', name='Bodoni MT', style='italic', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PERI____.TTF', name='Perpetua', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\mmrtext.ttf', name='Myanmar Text', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\DUBAI-MEDIUM.TTF', name='Dubai', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\OLDENGL.TTF', name='Old English Text MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\CENTAUR.TTF', name='Centaur', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\msjhbd.ttc', name='Microsoft JhengHei', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\PRISTINA.TTF', name='Pristina', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\corbelb.ttf', name='Corbel', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\YuGothB.ttc', name='Yu Gothic', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\YuGothR.ttc', name='Yu Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\RAGE.TTF', name='Rage Italic', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LeelUIsl.ttf', name='Leelawadee UI', style='normal', variant='normal', weight=350, stretch='normal', size='scalable')) = 10.0975
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\LFAXI.TTF', name='Lucida Fax', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\ITCEDSCR.TTF', name='Edwardian Script ITC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\palab.ttf', name='Palatino Linotype', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\cour.ttf', name='Courier New', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\gadugi.ttf', name='Gadugi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2023-10-19 01:41:36,502 findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\GOTHICB.TTF', name='Century Gothic', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2023-10-19 01:41:36,502 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\susha\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2023-10-19 01:41:36,696 ---------------Reading Input Data---------------
+2023-10-19 01:41:36,816 ---------------Transactional Data formed---------------
+2023-10-19 01:41:36,816 ---------------Performing Data Cleaning---------------
+2023-10-19 01:41:36,880 ---------------Data Cleaning Complete---------------
+2023-10-19 01:41:36,885 Maximum number of attributes present in the dataset : 15
+2023-10-19 01:41:37,156 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:41:37,181 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:41:37,338 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:41:38,509 ---------------FP Tree created---------------
+2023-10-19 01:42:31,659 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:42:31,707 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:42:31,855 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:42:33,768 ---------------FP Tree created---------------
+2023-10-19 01:42:42,400 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:42:42,427 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:42:42,593 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:42:44,300 ---------------FP Tree created---------------
+2023-10-19 01:42:46,875 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:42:46,906 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:42:47,063 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:42:48,695 ---------------FP Tree created---------------
+2023-10-19 01:42:49,404 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:42:49,427 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:42:49,697 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:42:51,285 ---------------FP Tree created---------------
+2023-10-19 01:42:51,969 ---------------Reading Input Data---------------
+2023-10-19 01:42:52,005 ---------------Transactional Data formed---------------
+2023-10-19 01:42:52,005 ---------------Performing Data Cleaning---------------
+2023-10-19 01:42:52,025 ---------------Data Cleaning Complete---------------
+2023-10-19 01:42:52,026 Maximum number of attributes present in the dataset : 15
+2023-10-19 01:42:52,067 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:42:52,084 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:42:52,126 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:42:52,900 ---------------FP Tree created---------------
+2023-10-19 01:42:56,050 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:42:56,068 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:42:56,110 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:42:57,220 ---------------FP Tree created---------------
+2023-10-19 01:42:57,420 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:42:57,441 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:42:57,487 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:42:58,604 ---------------FP Tree created---------------
+2023-10-19 01:42:58,767 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:42:58,790 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:42:58,845 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:42:59,897 ---------------FP Tree created---------------
+2023-10-19 01:43:00,087 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:00,104 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:00,149 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:01,299 ---------------FP Tree created---------------
+2023-10-19 01:43:01,657 ---------------Reading Input Data---------------
+2023-10-19 01:43:01,664 ---------------Transactional Data formed---------------
+2023-10-19 01:43:01,664 ---------------Performing Data Cleaning---------------
+2023-10-19 01:43:01,665 ---------------Data Cleaning Complete---------------
+2023-10-19 01:43:01,665 Maximum number of attributes present in the dataset : 5
+2023-10-19 01:43:01,666 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:01,666 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:01,668 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:01,673 ---------------FP Tree created---------------
+2023-10-19 01:43:01,738 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:01,738 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:01,741 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:01,745 ---------------FP Tree created---------------
+2023-10-19 01:43:01,768 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:01,768 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:01,770 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:01,777 ---------------FP Tree created---------------
+2023-10-19 01:43:01,798 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:01,798 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:01,801 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:01,805 ---------------FP Tree created---------------
+2023-10-19 01:43:01,807 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:01,807 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:01,809 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:01,814 ---------------FP Tree created---------------
+2023-10-19 01:43:01,998 ---------------Reading Input Data---------------
+2023-10-19 01:43:02,005 ---------------Transactional Data formed---------------
+2023-10-19 01:43:02,005 ---------------Performing Data Cleaning---------------
+2023-10-19 01:43:02,006 ---------------Data Cleaning Complete---------------
+2023-10-19 01:43:02,006 Maximum number of attributes present in the dataset : 10
+2023-10-19 01:43:02,006 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:02,006 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:02,007 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:02,013 ---------------FP Tree created---------------
+2023-10-19 01:43:02,611 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:02,611 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:02,612 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:02,618 ---------------FP Tree created---------------
+2023-10-19 01:43:02,712 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:02,712 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:02,713 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:02,718 ---------------FP Tree created---------------
+2023-10-19 01:43:02,765 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:02,765 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:02,767 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:02,772 ---------------FP Tree created---------------
+2023-10-19 01:43:02,799 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:02,799 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:02,800 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:02,806 ---------------FP Tree created---------------
+2023-10-19 01:43:03,021 ---------------Reading Input Data---------------
+2023-10-19 01:43:03,027 ---------------Transactional Data formed---------------
+2023-10-19 01:43:03,028 ---------------Performing Data Cleaning---------------
+2023-10-19 01:43:03,028 ---------------Data Cleaning Complete---------------
+2023-10-19 01:43:03,028 Maximum number of attributes present in the dataset : 10
+2023-10-19 01:43:03,029 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,030 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,030 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,037 ---------------FP Tree created---------------
+2023-10-19 01:43:03,054 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,054 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,056 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,063 ---------------FP Tree created---------------
+2023-10-19 01:43:03,076 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,076 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,077 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,086 ---------------FP Tree created---------------
+2023-10-19 01:43:03,091 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,092 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,092 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,100 ---------------FP Tree created---------------
+2023-10-19 01:43:03,103 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,103 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,104 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,112 ---------------FP Tree created---------------
+2023-10-19 01:43:03,288 ---------------Reading Input Data---------------
+2023-10-19 01:43:03,294 ---------------Transactional Data formed---------------
+2023-10-19 01:43:03,294 ---------------Performing Data Cleaning---------------
+2023-10-19 01:43:03,295 ---------------Data Cleaning Complete---------------
+2023-10-19 01:43:03,295 Maximum number of attributes present in the dataset : 11
+2023-10-19 01:43:03,296 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,297 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,297 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,309 ---------------FP Tree created---------------
+2023-10-19 01:43:03,317 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,317 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,318 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,326 ---------------FP Tree created---------------
+2023-10-19 01:43:03,332 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,332 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,333 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,343 ---------------FP Tree created---------------
+2023-10-19 01:43:03,349 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,349 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,350 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,357 ---------------FP Tree created---------------
+2023-10-19 01:43:03,362 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,362 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,364 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,373 ---------------FP Tree created---------------
+2023-10-19 01:43:03,514 ---------------Reading Input Data---------------
+2023-10-19 01:43:03,557 ---------------Transactional Data formed---------------
+2023-10-19 01:43:03,557 ---------------Performing Data Cleaning---------------
+2023-10-19 01:43:03,558 ---------------Data Cleaning Complete---------------
+2023-10-19 01:43:03,558 Maximum number of attributes present in the dataset : 5
+2023-10-19 01:43:03,558 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,558 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,559 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,561 ---------------FP Tree created---------------
+2023-10-19 01:43:03,564 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,564 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,565 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,567 ---------------FP Tree created---------------
+2023-10-19 01:43:03,569 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,569 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,571 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,572 ---------------FP Tree created---------------
+2023-10-19 01:43:03,574 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,574 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,574 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,576 ---------------FP Tree created---------------
+2023-10-19 01:43:03,577 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,577 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,578 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,580 ---------------FP Tree created---------------
+2023-10-19 01:43:03,714 ---------------Reading Input Data---------------
+2023-10-19 01:43:03,758 ---------------Transactional Data formed---------------
+2023-10-19 01:43:03,758 ---------------Performing Data Cleaning---------------
+2023-10-19 01:43:03,758 ---------------Data Cleaning Complete---------------
+2023-10-19 01:43:03,758 Maximum number of attributes present in the dataset : 7
+2023-10-19 01:43:03,759 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,759 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,761 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,810 ---------------FP Tree created---------------
+2023-10-19 01:43:03,838 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,838 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,839 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,847 ---------------FP Tree created---------------
+2023-10-19 01:43:03,853 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,854 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,855 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,862 ---------------FP Tree created---------------
+2023-10-19 01:43:03,865 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,866 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,867 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,879 ---------------FP Tree created---------------
+2023-10-19 01:43:03,881 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:03,882 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:03,883 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:03,894 ---------------FP Tree created---------------
+2023-10-19 01:43:04,045 ---------------Reading Input Data---------------
+2023-10-19 01:43:04,231 ---------------Transactional Data formed---------------
+2023-10-19 01:43:04,231 ---------------Performing Data Cleaning---------------
+2023-10-19 01:43:04,310 ---------------Data Cleaning Complete---------------
+2023-10-19 01:43:04,314 Maximum number of attributes present in the dataset : 9
+2023-10-19 01:43:04,540 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:04,604 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:04,811 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:06,016 ---------------FP Tree created---------------
+2023-10-19 01:43:06,555 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:06,574 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:06,806 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:08,119 ---------------FP Tree created---------------
+2023-10-19 01:43:08,547 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:08,560 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:08,756 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:10,068 ---------------FP Tree created---------------
+2023-10-19 01:43:10,397 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:10,412 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:10,606 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:12,011 ---------------FP Tree created---------------
+2023-10-19 01:43:12,373 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:12,388 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:12,609 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:13,860 ---------------FP Tree created---------------
+2023-10-19 01:43:14,216 ---------------Reading Input Data---------------
+2023-10-19 01:43:16,144 ---------------Transactional Data formed---------------
+2023-10-19 01:43:16,144 ---------------Performing Data Cleaning---------------
+2023-10-19 01:43:16,812 ---------------Data Cleaning Complete---------------
+2023-10-19 01:43:16,857 Maximum number of attributes present in the dataset : 8
+2023-10-19 01:43:18,799 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:18,879 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:21,796 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:43:39,173 ---------------FP Tree created---------------
+2023-10-19 01:43:43,790 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:43:43,901 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:43:46,410 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:44:03,764 ---------------FP Tree created---------------
+2023-10-19 01:44:07,030 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:44:07,106 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:44:09,382 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:44:26,437 ---------------FP Tree created---------------
+2023-10-19 01:44:29,727 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:44:29,808 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:44:32,102 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:44:49,052 ---------------FP Tree created---------------
+2023-10-19 01:44:52,239 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:44:52,319 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:44:54,586 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:45:11,602 ---------------FP Tree created---------------
+2023-10-19 01:45:13,212 ---------------Reading Input Data---------------
+2023-10-19 01:45:13,218 ---------------Transactional Data formed---------------
+2023-10-19 01:45:13,218 ---------------Performing Data Cleaning---------------
+2023-10-19 01:45:13,218 ---------------Data Cleaning Complete---------------
+2023-10-19 01:45:13,218 Maximum number of attributes present in the dataset : 5
+2023-10-19 01:45:13,218 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:45:13,218 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:45:13,218 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:45:13,218 ---------------FP Tree created---------------
+2023-10-19 01:45:13,336 ---------------Reading Input Data---------------
+2023-10-19 01:45:13,346 ---------------Transactional Data formed---------------
+2023-10-19 01:45:13,346 ---------------Performing Data Cleaning---------------
+2023-10-19 01:45:13,347 ---------------Data Cleaning Complete---------------
+2023-10-19 01:45:13,348 Maximum number of attributes present in the dataset : 10
+2023-10-19 01:45:13,350 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:45:13,350 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:45:13,353 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:45:13,375 ---------------FP Tree created---------------
+2023-10-19 01:45:16,563 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:45:16,563 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:45:16,566 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:45:16,590 ---------------FP Tree created---------------
+2023-10-19 01:45:18,754 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:45:18,754 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:45:18,758 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:45:18,783 ---------------FP Tree created---------------
+2023-10-19 01:45:18,868 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:45:18,868 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:45:18,872 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:45:18,896 ---------------FP Tree created---------------
+2023-10-19 01:45:18,902 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:45:18,902 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:45:18,906 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:45:18,926 ---------------FP Tree created---------------
+2023-10-19 01:45:19,131 ---------------Reading Input Data---------------
+2023-10-19 01:45:19,142 ---------------Transactional Data formed---------------
+2023-10-19 01:45:19,142 ---------------Performing Data Cleaning---------------
+2023-10-19 01:45:19,143 ---------------Data Cleaning Complete---------------
+2023-10-19 01:45:19,143 Maximum number of attributes present in the dataset : 17
+2023-10-19 01:45:19,145 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:45:19,145 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:45:19,147 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:45:19,162 ---------------FP Tree created---------------
+2023-10-19 01:46:58,358 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:46:58,359 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:46:58,360 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:46:58,425 ---------------FP Tree created---------------
+2023-10-19 01:47:29,403 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:47:29,403 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:47:29,405 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:47:29,428 ---------------FP Tree created---------------
+2023-10-19 01:47:42,624 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:47:42,624 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:47:42,626 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:47:42,650 ---------------FP Tree created---------------
+2023-10-19 01:47:43,014 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:47:43,014 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:47:43,015 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:47:43,033 ---------------FP Tree created---------------
+2023-10-19 01:47:43,367 ---------------Reading Input Data---------------
+2023-10-19 01:47:43,376 ---------------Transactional Data formed---------------
+2023-10-19 01:47:43,376 ---------------Performing Data Cleaning---------------
+2023-10-19 01:47:43,376 ---------------Data Cleaning Complete---------------
+2023-10-19 01:47:43,376 Maximum number of attributes present in the dataset : 14
+2023-10-19 01:47:43,377 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:47:43,378 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:47:43,379 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:47:43,391 ---------------FP Tree created---------------
+2023-10-19 01:47:43,404 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:47:43,405 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:47:43,405 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:47:43,430 ---------------FP Tree created---------------
+2023-10-19 01:47:43,441 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:47:43,441 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:47:43,443 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:47:43,454 ---------------FP Tree created---------------
+2023-10-19 01:47:43,459 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:47:43,459 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:47:43,460 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:47:43,471 ---------------FP Tree created---------------
+2023-10-19 01:47:43,477 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:47:43,477 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:47:43,478 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:47:43,491 ---------------FP Tree created---------------
+2023-10-19 01:47:43,630 ---------------Reading Input Data---------------
+2023-10-19 01:47:43,636 ---------------Transactional Data formed---------------
+2023-10-19 01:47:43,636 ---------------Performing Data Cleaning---------------
+2023-10-19 01:47:43,636 ---------------Data Cleaning Complete---------------
+2023-10-19 01:47:43,636 Maximum number of attributes present in the dataset : 18
+2023-10-19 01:47:43,637 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:47:43,637 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:47:43,637 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:47:43,640 ---------------FP Tree created---------------
+2023-10-19 01:48:01,760 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:48:01,760 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:48:01,760 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:48:01,770 ---------------FP Tree created---------------
+2023-10-19 01:48:03,017 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:48:03,017 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:48:03,018 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:48:03,023 ---------------FP Tree created---------------
+2023-10-19 01:48:03,058 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:48:03,059 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:48:03,059 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:48:03,063 ---------------FP Tree created---------------
+2023-10-19 01:48:03,068 ---------------Count of Items stored in a Dictionary---------------
+2023-10-19 01:48:03,068 ---------------Itemset sorted in decreasing order of their count---------------
+2023-10-19 01:48:03,068 ---------------Items in each transaction are sorted---------------
+2023-10-19 01:48:03,073 ---------------FP Tree created---------------
